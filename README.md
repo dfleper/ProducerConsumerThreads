@@ -6,7 +6,7 @@
 - Example Producer Consumer, Threads in Java using Synchronized. 
 - Ejemplo Productor Consumidor, Hilos en Java usando Synchronized.
 
-https://github.com/dfleper/ProducerConsumerThreads/assets/124105822/d6b847ea-c2c2-49c1-b85a-4b9ca9c8a776
+https://github.com/dfleper/ProducerConsumerThreads/assets/124105822/60d05ab8-305a-4c33-a0ee-b3c49ce714c5
 
 #### 🛠 [Spring Tool Suite 4](https://spring.io/tools)
 #### 🛠 [OpenJDK 17.0.8.1+1](https://developer.ibm.com/languages/java/semeru-runtimes/downloads/) 
